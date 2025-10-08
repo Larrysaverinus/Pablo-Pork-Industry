@@ -1,0 +1,5 @@
+{
+  "name": "Pablo Pork Industry",
+  "description": "A simple system to enter your purchases and daily sales, and track your capital in real-time. All data is stored locally in your browser.",
+  "requestFramePermissions": []
+}
